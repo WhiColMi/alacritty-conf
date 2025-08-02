@@ -1,2 +1,1 @@
-
-general.import = [ "~/.config/alacritty/colors.toml" ]
+general.import = [ "./theme.toml" ]
